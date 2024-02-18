@@ -36,15 +36,25 @@ Competitive programming started a long time ago when schools organized contests 
 
 4. **2013**: AtCoder became popular, especially in Japan.
 
-## Competitive Programming Sites and Their Owners
+## Popular Competitive Programming Websites
 
-Here are some popular competitive programming sites and their founders:
+If you're looking to dive into the world of competitive programming, there are several websites where you can sharpen your skills and compete against others. Here are some of the most popular ones:
 
-- **Codeforces**: Founded by Mike Mirzayanov in 2007, Codeforces quickly gained popularity for its user-friendly interface and diverse problem sets.
+- **Codeforces**: Founded by Mike Mirzayanov in 2007, Codeforces is known for its vast problem archive, regular contests, and strong community support.
 
-- **TopCoder**: Founded by Jack Hughes in 2001, TopCoder revolutionized competitive programming by hosting regular online contests.
+- **TopCoder**: Established in 2001, TopCoder offers a variety of algorithmic and design competitions, along with a platform for practice and learning.
 
-- **AtCoder**: Founded by Atsushi Obara in 2013, AtCoder emerged as a prominent platform, particularly in the Japanese programming community.
+- **AtCoder**: Founded in 2013 by Atsushi Obara, AtCoder is a Japanese competitive programming platform that hosts regular contests and provides a rich set of practice problems.
+
+- **LeetCode**: LeetCode is a popular platform for technical interview preparation, offering a wide range of coding problems categorized by difficulty level and topic.
+
+- **HackerRank**: HackerRank provides coding challenges and contests for programmers of all skill levels, with a focus on technical recruiting and skill assessment.
+
+- **Kaggle**: While primarily known for data science competitions, Kaggle also hosts coding challenges and algorithm competitions, attracting a diverse community of developers and data scientists.
+
+- **Google Code Jam**: Organized by Google, Code Jam is an annual coding competition that challenges participants to solve algorithmic problems under time constraints.
+
+These websites offer a wealth of resources for aspiring competitive programmers, including practice problems, tutorials, and opportunities to compete in contests and improve your skills.
 
 ## Legends in Competitive Programming
 
@@ -74,11 +84,11 @@ Competitive programming has its legends – individuals who have achieved remark
    
    ![Chibuoyim Ogbonna](/wilson.jpg)
    
-   Meet Chibuoyim Ogbonna, also known as "MadLogic," the self-proclaimed master of chaos in the world of competitive programming. Despite his years of experience in the field, Chibuoyim has yet to ascend to the prestigious ranks of grandmaster. Some say he's the living embodiment of Murphy's Law, where anything that can go wrong will go wrong—even his code.
+   Meet Chibuoyim Ogbonna, also known as "madlogic," the self-proclaimed master of chaos in the world of competitive programming. Despite his years of experience in the field, Chibuoyim has yet to ascend to the prestigious ranks of grandmaster. Some say he's the living embodiment of Murphy's Law, where anything that can go wrong will go wrong—even his code.
 
    With his unconventional approach to problem-solving, Chibuoyim has managed to achieve the dubious honor of being a "Candidate Master" on Codeforces. Yes, you heard it right—a "Candidate Master" after all these years! It seems like he's mastered the art of being a candidate but hasn't quite nailed down the whole "master" part yet.
 
-   Despite his less-than-stellar ranking, Chibuoyim remains undeterred, always ready to tackle new challenges with his trademark blend of madness and logic. Who knows? Maybe one day, he'll finally break free from the clutches of the "Candidate Master" title and ascend to the ranks of true greatness. But until then, we'll just sit back and enjoy the ride as MadLogic continues to defy expectations and keep us all entertained with his antics in the world of competitive programming.
+   Despite his less-than-stellar ranking, Chibuoyim remains undeterred, always ready to tackle new challenges with his trademark blend of madness and logic. Who knows? Maybe one day, he'll finally break free from the clutches of the "Candidate Master" title and ascend to the ranks of true greatness. But until then, we'll just sit back and enjoy the ride as madlogic continues to defy expectations and keep us all entertained with his antics in the world of competitive programming.
 
 
 ## Types of Topics Encountered in Competitive Programming
@@ -134,26 +144,6 @@ Ask for help from experienced programmers or online resources.
 ### 7. Stay Updated:
 
 Keep learning new things and stay updated with the latest trends in programming.
-
-## Popular Competitive Programming Websites
-
-If you're looking to dive into the world of competitive programming, there are several websites where you can sharpen your skills and compete against others. Here are some of the most popular ones:
-
-- **Codeforces**: Founded by Mike Mirzayanov in 2007, Codeforces is known for its vast problem archive, regular contests, and strong community support.
-
-- **TopCoder**: Established in 2001, TopCoder offers a variety of algorithmic and design competitions, along with a platform for practice and learning.
-
-- **AtCoder**: Founded in 2013 by Atsushi Obara, AtCoder is a Japanese competitive programming platform that hosts regular contests and provides a rich set of practice problems.
-
-- **LeetCode**: LeetCode is a popular platform for technical interview preparation, offering a wide range of coding problems categorized by difficulty level and topic.
-
-- **HackerRank**: HackerRank provides coding challenges and contests for programmers of all skill levels, with a focus on technical recruiting and skill assessment.
-
-- **Kaggle**: While primarily known for data science competitions, Kaggle also hosts coding challenges and algorithm competitions, attracting a diverse community of developers and data scientists.
-
-- **Google Code Jam**: Organized by Google, Code Jam is an annual coding competition that challenges participants to solve algorithmic problems under time constraints.
-
-These websites offer a wealth of resources for aspiring competitive programmers, including practice problems, tutorials, and opportunities to compete in contests and improve your skills.
 
 ## Ranks in Competitive Programming (Codeforces)
 
