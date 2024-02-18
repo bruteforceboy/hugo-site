@@ -1,6 +1,6 @@
 baseURL = 'https://bruteforceboy.github.io/'
 languageCode = 'en-us'
-title = 'Wilson-s Hugo site'
+title = 'Technical Communication'
 theme = 'ananke'
 canonifyURLs = true
 
