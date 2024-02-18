@@ -51,28 +51,28 @@ Here are some popular competitive programming sites and their founders:
 Competitive programming has its legends – individuals who have achieved remarkable success and inspired others with their exceptional skills. Some of these legends include:
 1. **Petr Mitrichev**:
    
-   ![Petr Mitrichev](petr-mitrichev.png)
+   ![Petr Mitrichev](/petr-mitrichev.png)
    
    Petr is known for his incredible problem-solving skills. He has won multiple world championships and is widely regarded as one of the greatest competitive programmers of all time.
    
 
 2. **Gennady Korotkevich**:
    
-   ![Gennady Korotkevich](gennady-korotkevich.png)
+   ![Gennady Korotkevich](/gennady-korotkevich.png)
    
    Commonly referred to as "tourist," Gennady is renowned for his unmatched speed and accuracy in solving complex problems. He has dominated numerous competitions, earning him the title of the most successful competitive programmer in history.
    
 
 3. **Yui Hosaka**:
    
-   ![Yui Hosaka](yui-hosaka.png)
+   ![Yui Hosaka](/yui-hosaka.png)
    
    Yui Hosaka is a rising star in the competitive programming world. With her exceptional problem-solving skills and dedication, she has quickly made a name for herself in various coding competitions. Yui's strategic approach and quick thinking have earned her numerous accolades, showcasing her potential to become one of the top competitors in the field. As she continues to hone her skills and tackle new challenges, Yui Hosaka's journey in competitive programming promises to inspire many aspiring coders around the globe.
    
 
 4. **Chibuoyim Ogbonna**:
    
-   ![Chibuoyim Ogbonna](wilson.jpg)
+   ![Chibuoyim Ogbonna](/wilson.jpg)
    
    Meet Chibuoyim Ogbonna, also known as "MadLogic," the self-proclaimed master of chaos in the world of competitive programming. Despite his years of experience in the field, Chibuoyim has yet to ascend to the prestigious ranks of grandmaster. Some say he's the living embodiment of Murphy's Law, where anything that can go wrong will go wrong—even his code.
 
