@@ -2,3 +2,7 @@ baseURL = 'https://bruteforceboy.github.io/'
 languageCode = 'en-us'
 title = 'Wilson-s Hugo site'
 theme = 'ananke'
+canonifyURLs = true
+
+[params]
+github = "https://bruteforceboy.github.io/hugo-site/"
