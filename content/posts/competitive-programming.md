@@ -1,6 +1,6 @@
 +++
 title = 'What is Competitive Programming?'
-date = 2024-02-18T07:07:07+01:00
+date = 2024-04-07T07:07:07+01:00
 draft = false
 +++
 
