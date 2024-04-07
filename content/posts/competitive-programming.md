@@ -4,9 +4,22 @@ date = 2024-02-18T07:07:07+01:00
 draft = false
 +++
 
+# Table of Contents
+1. [Introduction](#introduction)
+2. [What is Competitive Programming?](#what-is-competitive-programming)
+   - [Objectives of Competitive Programming](#objectives-of-competitive-programming)
+3. [History of Competitive Programming](#history-of-competitive-programming)
+4. [Ranks in Competitive Programming (Codeforces)](#ranks-in-competitive-programming-codeforces)
+5. [Popular Competitive Programming Websites](#popular-competitive-programming-websites)
+6. [Legends in Competitive Programming](#legends-in-competitive-programming)
+7. [Types of Topics Encountered in Competitive Programming](#types-of-topics-encountered-in-competitive-programming)
+8. [Strategies to Improve Competitive Programming Skills](#strategies-to-improve-competitive-programming-skills)
+9. [Similar Sports to Competitive Programming](#similar-sports-to-competitive-programming)
+10. [Conclusion](#conclusion)
+
 ## Introduction
 
-In the world of computer science, competitive programming is like a puzzle game where people solve problems using code. They have to solve these problems within a certain time. This guide will explain what competitive programming is, its history, how ranks work on a website called Codeforces, what Codeforces is, competitive programming sites and their owners, legends in competitive programming, types of topics encountered in competitive programming, similar sports to competitive programming, and how to get better at competitive programming.
+In the world of computer science, competitive programming is like a puzzle game where people solve problems using code. They have to solve these problems within a certain time. This guide will explain what competitive programming is, its history, how ranks work on a website called Codeforces, what Codeforces is, competitive programming sites and their owners, legends in competitive programming, types of topics encountered in competitive programming, how to get better at competitive programming, and similar sports to competitive programming.
 
 ## What is Competitive Programming?
 
@@ -26,35 +39,47 @@ Competitive programming is about solving problems using code against others. Peo
 
 Competitive programming started a long time ago when schools organized contests to help students get better at problem solving. Then, in the late 20th century, big competitions like the ACM International Collegiate Programming Contest (ICPC) began. After that, online platforms like TopCoder, Codeforces, and AtCoder made competitive programming popular worldwide.
 
-### Key Milestones:
-
-1. **1977**: The ACM ICPC began, starting collegiate-level competitive programming.
-
-2. **1998**: TopCoder started online competitions, making it easier for people to compete.
-
-3. **2007**: Codeforces launched, becoming a favorite for many because of its easy-to-use website and many different kinds of problems.
-
-4. **2013**: AtCoder became popular, especially in Japan.
-
 ## Popular Competitive Programming Websites
 
 If you're looking to dive into the world of competitive programming, there are several websites where you can sharpen your skills and compete against others. Here are some of the most popular ones:
 
-- **Codeforces**: Founded by Mike Mirzayanov in 2007, Codeforces is known for its vast problem archive, regular contests, and strong community support.
+- **[Codeforces](https://codeforces.com/)**: Founded by Mike Mirzayanov in 2007, Codeforces is known for its vast problem archive, regular contests, and strong community support.
 
-- **TopCoder**: Established in 2001, TopCoder offers a variety of algorithmic and design competitions, along with a platform for practice and learning.
+- **[TopCoder](https://www.topcoder.com/)**: Established in 2001, TopCoder offers a variety of algorithmic and design competitions, along with a platform for practice and learning.
 
-- **AtCoder**: Founded in 2013 by Atsushi Obara, AtCoder is a Japanese competitive programming platform that hosts regular contests and provides a rich set of practice problems.
+- **[AtCoder](https://atcoder.jp/)**: Founded in 2013 by Atsushi Obara, AtCoder is a Japanese competitive programming platform that hosts regular contests and provides a rich set of practice problems.
 
-- **LeetCode**: LeetCode is a popular platform for technical interview preparation, offering a wide range of coding problems categorized by difficulty level and topic.
+- **[LeetCode](https://leetcode.com/)**: LeetCode is a popular platform for technical interview preparation, offering a wide range of coding problems categorized by difficulty level and topic.
 
-- **HackerRank**: HackerRank provides coding challenges and contests for programmers of all skill levels, with a focus on technical recruiting and skill assessment.
+- **[HackerRank](https://www.hackerrank.com/)**: HackerRank provides coding challenges and contests for programmers of all skill levels, with a focus on technical recruiting and skill assessment.
 
-- **Kaggle**: While primarily known for data science competitions, Kaggle also hosts coding challenges and algorithm competitions, attracting a diverse community of developers and data scientists.
+- **[Kaggle](https://www.kaggle.com/)**: While primarily known for data science competitions, Kaggle also hosts coding challenges and algorithm competitions, attracting a diverse community of developers and data scientists.
 
-- **Google Code Jam**: Organized by Google, Code Jam is an annual coding competition that challenges participants to solve algorithmic problems under time constraints.
+- **[Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)**: Organized by Google, Code Jam is an annual coding competition that challenges participants to solve algorithmic problems under time constraints.
 
 These websites offer a wealth of resources for aspiring competitive programmers, including practice problems, tutorials, and opportunities to compete in contests and improve your skills.
+
+## Ranks in Competitive Programming (Codeforces)
+
+In competitive programming, participants often aim to achieve different ranks to showcase their skills and progress. Codeforces, one of the leading platforms for competitive programming, employs a ranking system to evaluate participants' performance. Here are some of the common ranks on Codeforces:
+
+- **Newbie**: This is the starting rank for all users on Codeforces. Newbies are typically beginners who have just started participating in contests or solving practice problems.
+
+- **Pupil**: After successfully participating in contests and solving problems, users can progress to the rank of Pupil. Pupils have demonstrated some proficiency in competitive programming but are still considered to be in the early stages of their journey.
+
+- **Specialist**: With continued practice and improvement, users can advance to the rank of Specialist. Specialists have achieved a higher level of proficiency and consistency in solving problems on Codeforces.
+
+- **Expert**: Expert is a significant milestone for competitive programmers on Codeforces. Users at this rank have demonstrated strong problem-solving skills and consistency in contest performance.
+
+- **Candidate Master**: Candidate Master is one of the highest ranks achievable on Codeforces. Users at this level are considered highly skilled and experienced competitive programmers, capable of solving challenging problems efficiently.
+
+- **Master and International Master**: Beyond Candidate Master, users can progress to the ranks of Master and International Master. These ranks are achieved by consistently performing well in contests and solving difficult problems.
+
+- **Grandmaster and International Grandmaster**: Grandmaster and International Grandmaster are elite ranks reserved for the top performers on Codeforces. Users at this level have proven themselves to be among the best competitive programmers in the world.
+
+- **Legendary Grandmaster**: Legendary Grandmaster is the highest attainable rank on Codeforces. Users who reach this rank are revered for their exceptional skills and achievements in competitive programming. They are considered legends in the competitive programming community.
+
+Progressing through the ranks on Codeforces requires dedication, practice, and continuous learning. Each rank represents a significant milestone in a participant's journey towards becoming a proficient competitive programmer.
 
 ## Legends in Competitive Programming
 
@@ -90,6 +115,15 @@ Competitive programming has its legends – individuals who have achieved remark
 
    Despite his less-than-stellar ranking, Chibuoyim remains undeterred, always ready to tackle new challenges with his trademark blend of madness and logic. Who knows? Maybe one day, he'll finally break free from the clutches of the "Candidate Master" title and ascend to the ranks of true greatness. But until then, we'll just sit back and enjoy the ride as madlogic continues to defy expectations and keep us all entertained with his antics in the world of competitive programming.
 
+### Key Milestones:
+
+1. **1977**: The ACM ICPC began, starting collegiate-level competitive programming.
+
+2. **1998**: TopCoder started online competitions, making it easier for people to compete.
+
+3. **2007**: Codeforces launched, becoming a favorite for many because of its easy-to-use website and many different kinds of problems.
+
+4. **2013**: AtCoder became popular, especially in Japan.
 
 ## Types of Topics Encountered in Competitive Programming
 
@@ -102,16 +136,6 @@ Competitive programming covers a wide range of topics, including:
 - **Mathematics**: Mathematical concepts like number theory, combinatorics, probability, and geometry play a crucial role in solving many competitive programming problems.
 
 - **String Processing**: Problems involving string manipulation, pattern matching, and text processing are common in competitive programming.
-
-## Similar Sports to Competitive Programming
-
-Competitive programming shares similarities with other sports and activities, such as:
-
-- **Chess**: Like chess, competitive programming requires strategic thinking, problem-solving skills, and the ability to anticipate opponents' moves.
-
-- **Puzzles**: Solving puzzles, whether they are crosswords, Sudoku, or logic puzzles, involves similar mental processes as competitive programming, such as logic, pattern recognition, and attention to detail.
-
-- **Math Competitions**: Math competitions, such as the International Mathematical Olympiad (IMO), often involve solving complex problems under time constraints, similar to competitive programming contests.
 
 ## Strategies to Improve Competitive Programming Skills
 
@@ -145,27 +169,15 @@ Ask for help from experienced programmers or online resources.
 
 Keep learning new things and stay updated with the latest trends in programming.
 
-## Ranks in Competitive Programming (Codeforces)
+## Similar Sports to Competitive Programming
 
-In competitive programming, participants often aim to achieve different ranks to showcase their skills and progress. Codeforces, one of the leading platforms for competitive programming, employs a ranking system to evaluate participants' performance. Here are some of the common ranks on Codeforces:
+Competitive programming shares similarities with other sports and activities, such as:
 
-- **Newbie**: This is the starting rank for all users on Codeforces. Newbies are typically beginners who have just started participating in contests or solving practice problems.
+- **Chess**: Like chess, competitive programming requires strategic thinking, problem-solving skills, and the ability to anticipate opponents' moves.
 
-- **Pupil**: After successfully participating in contests and solving problems, users can progress to the rank of Pupil. Pupils have demonstrated some proficiency in competitive programming but are still considered to be in the early stages of their journey.
+- **Puzzles**: Solving puzzles, whether they are crosswords, Sudoku, or logic puzzles, involves similar mental processes as competitive programming, such as logic, pattern recognition, and attention to detail.
 
-- **Specialist**: With continued practice and improvement, users can advance to the rank of Specialist. Specialists have achieved a higher level of proficiency and consistency in solving problems on Codeforces.
-
-- **Expert**: Expert is a significant milestone for competitive programmers on Codeforces. Users at this rank have demonstrated strong problem-solving skills and consistency in contest performance.
-
-- **Candidate Master**: Candidate Master is one of the highest ranks achievable on Codeforces. Users at this level are considered highly skilled and experienced competitive programmers, capable of solving challenging problems efficiently.
-
-- **Master and International Master**: Beyond Candidate Master, users can progress to the ranks of Master and International Master. These ranks are achieved by consistently performing well in contests and solving difficult problems.
-
-- **Grandmaster and International Grandmaster**: Grandmaster and International Grandmaster are elite ranks reserved for the top performers on Codeforces. Users at this level have proven themselves to be among the best competitive programmers in the world.
-
-- **Legendary Grandmaster**: Legendary Grandmaster is the highest attainable rank on Codeforces. Users who reach this rank are revered for their exceptional skills and achievements in competitive programming. They are considered legends in the competitive programming community.
-
-Progressing through the ranks on Codeforces requires dedication, practice, and continuous learning. Each rank represents a significant milestone in a participant's journey towards becoming a proficient competitive programmer.
+- **Math Competitions**: Math competitions, such as the International Mathematical Olympiad (IMO), often involve solving complex problems under time constraints, similar to competitive programming contests.
 
 ## Conclusion
 
